@@ -14,6 +14,8 @@ $ Requirement : Nothing.
 
 $ Requirement :
 
+- Install rarfile lib, "pip3 install rarfile" -> for linux & macos | "pip install rarfile" for windows
+
 - Install unrar for macos by brew tools.
 
 $ Default is brew not installed, then for install brew tools see this link : https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/
