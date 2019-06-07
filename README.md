@@ -5,12 +5,12 @@ Here added simple python app's
 
 # Scripts :
 
-1- Simple Converter from rgb value to hex value or reverse.
+# Simple Converter from rgb value to hex value or reverse.
 
 $ Requirement : Nothing.
 
 
-2- Extract rar files with/without password.
+# Extract rar files with/without password.
 
 $ Requirement :
 
@@ -27,7 +27,7 @@ $ or search in google or anything else " install brew tools ".
 - Install unrar for windows
 
 
-3- Download (Audio/Video | mp3/mp4) Youtube
+# Download (Audio/Video | mp3/mp4) Youtube
 
 $ Requirement :
 
