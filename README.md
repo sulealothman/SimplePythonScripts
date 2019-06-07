@@ -25,3 +25,20 @@ $ or search in google or anything else " install brew tools ".
 - Install unrar for linux distro by apt or any application manager tools.
 
 - Install unrar for windows
+
+
+3- Download (Audio/Video | mp3/mp4) Youtube
+
+$ Requirement :
+
+- Install youtube-dl lib, "pip3 install youtube-dl" -> for linux & macos | "pip install youtube-dl" for windows
+
+- Install ffmpeg for macos by brew tools.
+
+$ Default is brew not installed, then for install brew tools see this link : https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/
+
+$ or search in google or anything else " install brew tools ".
+
+- Install ffmpeg for linux distro by apt or any application manager tools.
+
+- Install ffmpeg for windows
