@@ -48,7 +48,7 @@ $ or search in google or anything else " install brew tools ".
 
 $ Requirement :
 
-- Install pyqt5, pyqt5-tools pyqrcode, pil|Pillow, pyzbar and pypng
+- Install pyqt5, pyqt5-tools pyqrcode, pil | Pillow, pyzbar and pypng
 
 - For gnu linux | macos -> pip3 install packagename
 
