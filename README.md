@@ -42,3 +42,14 @@ $ or search in google or anything else " install brew tools ".
 - Install ffmpeg for linux distro by apt or any application manager tools.
 
 - Install ffmpeg for windows
+
+
+# Generate QR barcode
+
+$ Requirement :
+
+- Install pyqt5, pyqt5-tools pyqrcode, pil|Pillow, pyzbar and pypng
+
+- For gnu linux | macos -> pip3 install packagename
+
+- For windows -> pip install packagename
